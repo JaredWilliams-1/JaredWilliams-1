@@ -1,6 +1,6 @@
 # Hi, I'm Jared 👋
 
-Final-year BSc Computer Science student at the **University of Pretoria** (86.56% average, Dean's Merit List), based in Pretoria, South Africa. I build full-stack and AI-assisted software, and I've led teams on large university software engineering projects.
+Final-year BSc Computer Science student at the **University of Pretoria** (86.56% average, Dean's Merit List), based in Pretoria, South Africa. I build full-stack software, and I've led teams on large university software engineering projects.
 
 ## What I work with
 
