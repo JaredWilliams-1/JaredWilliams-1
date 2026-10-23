@@ -4,11 +4,10 @@ Final-year BSc Computer Science student at the **University of Pretoria** (86.56
 
 ## What I work with
 
-- **Languages:** TypeScript, JavaScript, Python, Java, PHP, C++
+- **Languages:** TypeScript, JavaScript, Python, Java, PHP, C++, Go
 - **Backend and frontend:** FastAPI, Laravel, Node.js / Express, Next.js, React, Angular
 - **Data:** PostgreSQL, MySQL, Supabase
 - **DevOps and cloud:** Docker, GitHub Actions (CI/CD), AWS, Pulumi
-- **AI / computer vision:** YOLOv8, DeepSORT, OpenCV
 
 ## Featured projects
 
