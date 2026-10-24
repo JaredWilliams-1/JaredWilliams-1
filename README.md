@@ -18,7 +18,7 @@ Final-year BSc Computer Science student at the **University of Pretoria** (86.56
 
 ## Experience
 
-Part-time contract software developer (Laravel, PostgreSQL, TypeScript), since March 2026.
+Part-time contract software developer (Laravel, PostgreSQL, TypeScript), March 2026 - Present.
 
 ## Get in touch
 
